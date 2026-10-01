@@ -476,8 +476,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 * **HR manager**: The primary user of HR Book who manages employee records and leave information
 * **Leave**: A period of absence recorded for an employee and counted against their leave entitlement
 * **Mainstream OS**: Windows, Linux, Unix, or macOS
-* **Working day**: A day counted when calculating leave duration, excluding non-working days such as weekends and
-  public holidays
+* **Working day**: A day counted when calculating leave duration, which includes weekdays and excludes weekends
 
 --------------------------------------------------------------------------------------------------------------------
 
